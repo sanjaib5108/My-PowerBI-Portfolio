@@ -1,28 +1,24 @@
-# SQL-and-PowerBI-Repository
+SQL-and-PowerBI-Repository
 Project about Data Visualization in PowerBI using SQL Queries
 
-Project Name
 This project is a part of the Data Technician Bootcamp by JustIT. I have taken this Project to see the Trends of Pizza Restaurant and created visualizations.
 
-#### -- Project Status: [Active, On-Hold, Completed]
-
-## Project Intro/Objective
+Project Intro/Objective
 The purpose of this project is to analyze the Sales of a Pizza Restaurent for a period.
 
-### Methods Used
+Methods Used
 * Data Extraction
 * Data Visualization
 
-
-### Technologies
+Technologies
 * SQL
 * Power BI
 * Microsoft Excel
 
-## Project Description
+Project Description
 This project is part of my Data Technician Bootcamp by JustIT, where I was aksed to create a portfolio based on the skills I have learnt in the Boot Camp. As part of this project I have taken SQL and PowerBI tools to fetch the data and create Data Visualizations using PoweBI tool. This project includes the Data Load, Transformation and ANalysis of the data and turning into visuals using which the business can m ake decisions.
 
-## Needs of this project
+Needs of this project
 
 - data exploration
 - data processing
