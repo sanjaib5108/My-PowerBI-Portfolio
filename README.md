@@ -1,4 +1,4 @@
-# project Details
+# Project Details
 
 Pizza Sales Using SQL and Microsoft PowerBI
 Project about Data Visualization in PowerBI using SQL Queries for Data Transformation.
